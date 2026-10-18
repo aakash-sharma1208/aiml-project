@@ -1,0 +1,8 @@
+{
+  "name": "DigiSVM - Handwritten Digit Recognition",
+  "description": "Interactive handwritten digit recognition using Support Vector Machine (SVM). Draw a digit and get an instant AI prediction with model evaluation metrics, dataset explorer, and confusion matrix.",
+  "prompt": "Interactive handwritten digit recognition using Support Vector Machine (SVM). Draw a digit and get an instant AI prediction with model evaluation metrics.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
